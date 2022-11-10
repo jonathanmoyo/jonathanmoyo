@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jonathanmoyo
 - 👀 I’m interested in software development
+- 🔭 I’m currently working on jstore mobile app for a fashion store
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on new challenging projects
 - 📫 How to reach me jonathanmoyo123@gmail.com
